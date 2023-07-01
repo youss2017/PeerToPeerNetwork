@@ -1,8 +1,5 @@
 <!DOCTYPE html>
 <html>
-<head>
-  <title>Peer to Peer Network</title>
-</head>
 <body>
   <h1>Peer to Peer Network</h1>
 
